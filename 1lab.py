@@ -1,4 +1,4 @@
-import random as rand
+Здесь удалил и добавил строчку
 import matplotlib.pyplot as plt
 import numpy as np
 import math as m
@@ -6,6 +6,9 @@ import matplotlib as mpl
 import seaborn as sns
 import pandas as pd
 sns.set()
+
+Добавил зжесь строчку что бы можно было увидеть изменпения 
+
 
 
 def main():
